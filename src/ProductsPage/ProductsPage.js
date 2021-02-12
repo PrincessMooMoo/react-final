@@ -1,7 +1,9 @@
 const ProductsPage = () => {
     return (
         <div>
-            <p>This is the Products Page</p>
+            <img src="https://picsum.photos/200/300"></img>
+            <p>Title:</p>
+            <p>Price:</p>
         </div>
     );
 }
